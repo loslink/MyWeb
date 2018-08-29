@@ -21,5 +21,5 @@ function creat_table(id,count) {
 }
 
 $(function() {
-	creat_table('productList334',2);
+	creat_table('productList334',22);
 });
